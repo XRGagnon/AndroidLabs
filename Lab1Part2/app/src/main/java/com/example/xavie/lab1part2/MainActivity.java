@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //This is a coment
-        //The comment has a spelling mistake
+        //The comment has a spelling 
 
 
     }
