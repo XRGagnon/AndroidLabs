@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1b</string>
+    <string name="defMsg">Default Message</string>
+    <string name="getMsg">Get Message</string>
+    <string name="msgInputHint">New Message</string>
+    <string name="submitText">Submit</string>
+</resources>

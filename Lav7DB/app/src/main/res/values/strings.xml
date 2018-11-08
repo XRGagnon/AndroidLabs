@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lav7DB</string>
+    <string name="fnStr">First Name</string>
+    <string name="lnStr">Last Name</string>
+    <string name="pnStr">Phone Number</string>
+    <string name="pntStr">Phone Number Type</string>
+    <string name="addStr">Add</string>
+    <string name="cnclStr">Cance;</string>
+    <string name="addCtcStr">Add Contact</string>
+    <string name="cDel">Delete</string>
+    <string name="edit">Edit</string>
+</resources>

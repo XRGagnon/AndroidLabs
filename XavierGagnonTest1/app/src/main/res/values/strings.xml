@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">XavierGagnonTest1</string>
+    <string name="calcText">Calculate!</string>
+    <string name="percText">Tip Percentage</string>
+    <string name="costText">Total Cost of Meal</string>
+    <string name="numText">Number of Diners</string>
+    <string name="costInput">cost</string>
+    <string name="numInput">diners</string>
+    <string name="tipInput">Tip</string>
+    <string name="exitText">Exit Application</string>
+    <string name="bonusText">Display Bonus Answer</string>
+    <string name="menuButtonText">Menu..?</string>
+    <string name="TipCalc">Tip Calculator</string>
+    <string name="menuText">Options</string>
+    <string name="questionAnswer">One of the first Android Revisions was named after a kitchen appliance: \"Petit Four\"</string>
+    <string name="backButton" />
+    <string name="backButtonString">Go Back</string>
+    <string-array name="tipPercs">
+        <item>30</item>
+        <item>20</item>
+        <item>15</item>
+        <item>10</item>
+        <item>0</item>
+    </string-array>
+</resources>

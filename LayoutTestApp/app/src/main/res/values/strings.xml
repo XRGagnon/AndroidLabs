@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LayoutTestApp</string>
+    <string name="colour_prompt">Choose a Color</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>
